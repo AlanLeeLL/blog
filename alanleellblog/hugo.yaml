@@ -1,0 +1,5 @@
+baseURL: https://github.com/AlanLeeLL/alanleell.github.io/
+languageCode: en-us
+title: Alan Lee's Blog
+
+theme: ["PaperMod"]
